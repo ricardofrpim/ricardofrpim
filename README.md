@@ -2,7 +2,7 @@
 
 Welcome to my GitHub repository showcasing my projects and sprints during my time at Turing College! Here, you'll find a collection of projects where I applied SQL, Tableau, Excel, and Python to solve real-world problems and demonstrate my skills in data analysis and visualization.
 
-###Project 1###: [Utilising Spreadsheets for Data Analytics](https://docs.google.com/spreadsheets/d/1AWoou47ekbzYs-UPqA3SpBfzBCCKnUGNntC9MOfaYz8/edit#gid=141689769)
+Project 1: [Utilising Spreadsheets for Data Analytics](https://docs.google.com/spreadsheets/d/1AWoou47ekbzYs-UPqA3SpBfzBCCKnUGNntC9MOfaYz8/edit#gid=141689769)
 | Tools Used: Google Sheets
 
 Project 2: [SQL and Databases](https://docs.google.com/spreadsheets/d/1sKZSxI7227yTWYduvFuZDynQYnEUq_sO6K6xKvUydfc/edit#gid=0)
